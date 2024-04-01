@@ -9,8 +9,6 @@ It is an e-commerce website where customers can buy different types of products 
 - Product catalog with categories
 - Product search and filtering
 - Shopping cart functionality
-- Secure checkout process
-- Order history for users
 - Responsive design for various devices
 
 
