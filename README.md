@@ -14,7 +14,7 @@ It is an e-commerce website where customers can buy different types of products 
 - Responsive design for various devices
 
 
-##Technologies Used
+## Technologies Used
 
 - HTML5, CSS3 for front-end development
 - JavaScript for client-side interactivity
